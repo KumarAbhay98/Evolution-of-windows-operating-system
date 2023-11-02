@@ -127,17 +127,9 @@ These versions represent more recent iterations of the Windows OS with various e
 
 - **Windows 11:** Features a centered Start Menu and various performance improvements.
 
-Feel free to explore each version in detail to learn more about their specific features and advancements.
 
-
-Feel free to add these descriptions to your README file, following the previous template. You can expand on any other details or features specific to each version as needed for your presentation.
-
-Please refer to the PowerPoint presentation within this repository for a more in-depth look at the evolution of the Windows operating system.
-
-[Link to the PowerPoint Presentation](link_to_your_ppt_file.pptx)
 
 ---
 
 **Note:** This README file serves as an overview. For more detailed information, consult the PowerPoint presentation.
 
-**License:** This content is provided under the [MIT License](LICENSE).
